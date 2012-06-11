@@ -127,7 +127,7 @@ File and directory  organization
 So far, so good...
 --------------------------------------------------------------------------------
 
-.. image:: ./images/01_files.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/01_files.png
   :scale: 60%
 
 ----
@@ -135,7 +135,7 @@ So far, so good...
 Now what ?
 --------------------------------------------------------------------------------
 
-.. image:: ./images/02_files.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/02_files.png
   :scale: 60%
 
 ----
@@ -143,7 +143,7 @@ Now what ?
 I guess this is alright
 --------------------------------------------------------------------------------
 
-.. image:: ./images/03_files.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/03_files.png
   :scale: 60%
 
 ----
@@ -151,7 +151,7 @@ I guess this is alright
 Which one is the most recent?
 --------------------------------------------------------------------------------
 
-.. image:: ./images/04_files.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/04_files.png
   :scale: 60%
 
 ----
@@ -159,7 +159,7 @@ Which one is the most recent?
 Another (bad) common approach
 --------------------------------------------------------------------------------
 
-.. image:: ./images/another_common_approach.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/another_common_approach.png
   :scale: 60%
 
 ----
@@ -167,7 +167,7 @@ Another (bad) common approach
 A (possible) solution
 --------------------------------------------------------------------------------
 
-.. image:: ./images/correct_.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/correct_.png
   :scale: 60%
 
 ----
@@ -191,14 +191,14 @@ Metadata
 - when was it generate?
 - what were the experiment conditions?
 
-.. image:: ./images/data.gif
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/data.gif
 
 ----
 
 Project organisation
 --------------------------------------------------------------------------------
 
-.. image:: ./images/project_organization.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/project_organization.png
   :scale: 60%
 
 ----
@@ -275,7 +275,7 @@ You **will** introduce errors into your code
 
    </span>
 
-.. image:: ./images/bug.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/bug.png
 
 
 
@@ -299,7 +299,7 @@ Command line vs script vs program
 Software engineering
 --------------------------------------------------------------------------------
 
-.. image:: ./images/good_code.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/good_code.png
    :scale: 70%
 
 ----
@@ -321,7 +321,7 @@ The Value of Version Control
 
 ----
 
-.. image:: images/stolen_briefcase.png
+.. image:: https://github.com/ctb/SCCourses/raw/master/swc/images/stolen_briefcase.png
 
 ----
 
